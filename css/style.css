@@ -1,0 +1,181 @@
+.yellow {
+  color: yellow;
+}
+
+#greycol {
+  color: grey;
+}
+
+div+div>p {
+  color: red;
+}
+
+div+h3+p {
+  color: green;
+}
+
+div>h3:first-child {
+  color: pink;
+}
+
+.list1 :nth-child(even) {
+  color: red;
+}
+
+.list1 :nth-child(3) {
+  color: blue;
+}
+
+.list1 :first-child {
+  color: yellow;
+}
+
+.list1 :last-child {
+  color: aqua;
+}
+
+.list1 :nth-child(odd) {
+  background-color: crimson;
+}
+
+.list1 :nth-child(2n) {
+  background-color: grey;
+}
+
+.list1 :hover {
+  color: khaki;
+}
+
+.list1 :focus {
+  color: maroon;
+}
+
+.list2 :nth-child(even) {
+  color: gold;
+}
+
+.list2 :nth-child(3) {
+  color: blue;
+}
+
+.list2 :first-child {
+  color: fuchsia;
+}
+
+.list2 :last-child {
+  color: aqua;
+}
+
+.list2 :nth-child(odd) {
+  background-color: navy;
+}
+
+.list2 :nth-child(2n) {
+  background-color: red;
+}
+
+.list2 :hover {
+  color: khaki;
+}
+
+.list2 :focus {
+  color: black;
+}
+
+
+.list3 :nth-child(even) {
+  color: navajowhite;
+}
+
+.list3 :nth-child(3) {
+  color: violet;
+}
+
+.list3 :first-child {
+  color: tomato;
+}
+
+.list3 :last-child {
+  color: purple;
+}
+
+.list3 :nth-child(odd) {
+  background-color: mediumslateblue;
+}
+
+.list3 :nth-child(2n) {
+  background-color: chocolate;
+}
+
+.list3 :hover {
+  color: aqua;
+}
+
+.list3 :focus {
+  color: black;
+} 
+
+
+.list4 :nth-child(even) {
+  color: navajowhite;
+}
+
+.list4 :nth-child(3) {
+  color: violet;
+}
+
+.list4 :first-child {
+  color: tomato;
+}
+
+.list4 :last-child {
+  color: purple;
+}
+
+.list4 :nth-child(odd) {
+  background-color: mediumslateblue;
+}
+
+.list4 :nth-child(2n) {
+  background-color: chocolate;
+}
+
+.list4 :hover {
+  color: aqua;
+}
+
+.list4 :focus {
+  color: black;}
+
+
+  
+.list5 :nth-child(even) {
+  color: lawngreen;
+}
+
+.list5 :nth-child(3) {
+  color: paleturquoise;
+}
+
+.list5 :first-child {
+  color: black;
+}
+
+.list5 :last-child {
+  color: red;
+}
+
+.list5 :nth-child(odd) {
+  background-color: moccasin;
+}
+
+.list5 :nth-child(2n) {
+  background-color: greenyellow;
+}
+
+.list5 :hover {
+  color: navy;
+}
+
+.list5 :focus {
+  color: hotpink;}
